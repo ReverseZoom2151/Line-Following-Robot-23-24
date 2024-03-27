@@ -147,7 +147,7 @@ class LineSensor_c {
 
     }
 
-    // raeds a line sensor with error checking
+    // reads a line sensor with error checking
     unsigned long readLineSensor(int number) {
 
       // prevents memory errors 
