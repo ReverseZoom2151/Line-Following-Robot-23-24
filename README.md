@@ -8,15 +8,15 @@ This project is part of the EMATM0053 Robotic Systems coursework at the Universi
 
 ### Autonomous Line Detection and Navigation 🚀
 
-- Advanced Line Detection: Utilizes an array of integrated sensors to accurately detect lines under various lighting conditions and on different surfaces, enabling the robot to autonomously follow a predefined path.
-- Dynamic Navigation: A state-based system intelligently navigates through complex paths, including corners, curves, and intersections, with high precision. This system dynamically adjusts to the robot's environment, ensuring smooth traversal over complex track configurations.
+- **Advanced Line Detection:** Utilizes an array of integrated sensors to accurately detect lines under various lighting conditions and on different surfaces, enabling the robot to autonomously follow a predefined path.
+- **Dynamic Navigation:** A state-based system intelligently navigates through complex paths, including corners, curves, and intersections, with high precision. This system dynamically adjusts to the robot's environment, ensuring smooth traversal over complex track configurations.
 
 ### Dynamic Navigation 
 
 The navigation logic is sophisticated, enabling the robot to identify and appropriately react to different elements of the track, including:
 
-- 🔃 Corners and Curves: The robot deciphers sharp angles and gradual bends, applying calculated adjustments to its speed and direction to smoothly navigate these sections.
-- 🚦 Intersections: Special handling is incorporated for challenging obstacles such as intersections, where the robot must choose the correct path.
+- 🔃 **Corners and Curves:** The robot deciphers sharp angles and gradual bends, applying calculated adjustments to its speed and direction to smoothly navigate these sections.
+- 🚦 **Intersections:** Special handling is incorporated for challenging obstacles such as intersections, where the robot must choose the correct path.
 
 ### State-Based Decision Making 🧠
 
@@ -24,12 +24,12 @@ At the heart of the robot's operation is a state-based decision-making system. T
  
 ### Codebase Design 🛠️
 
-- Modular Code Structure: The code is organized and well-commented, facilitating easy customization and further development. This modular approach allows for the efficient integration of additional features and improvements.
+- **Modular Code Structure:** The code is organized and well-commented, facilitating easy customization and further development. This modular approach allows for the efficient integration of additional features and improvements.
 
 ### Performance Optimization 🏎️
 
-- Customizable Thresholds and Settings: Allows for the adjustment of sensor sensitivity and motor output, ensuring optimized performance across a variety of tracks and conditions.
-- Extensive Sensor Integration: A sophisticated sensor algorithm provides real-time feedback, enabling immediate adjustments to the robot's course, enhancing its responsiveness and accuracy in line following.
+- **Customizable Thresholds and Settings:** Allows for the adjustment of sensor sensitivity and motor output, ensuring optimized performance across a variety of tracks and conditions.
+- **Extensive Sensor Integration:** A sophisticated sensor algorithm provides real-time feedback, enabling immediate adjustments to the robot's course, enhancing its responsiveness and accuracy in line following.
 
 ## Acknowledgments 🙏
 
