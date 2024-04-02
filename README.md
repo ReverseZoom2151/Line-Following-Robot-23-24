@@ -20,7 +20,7 @@ The navigation logic is sophisticated, enabling the robot to identify and approp
 
 ### State-Based Decision Making
 
-At the heart of the robot's operation is a state-based decision-making system. This system orchestrates the robot's behavior, transitioning between different modes of operation based on real-time sensor data. States include joining the line, following the line, turning, and handling special track features like crossroads. This approach modularizes the code, making it easier to understand, maintain, and extend.
+At the heart of the robot's operation is a state-based decision-making system. This system orchestrates the robot's behavior, transitioning between different modes of operation based on real-time sensor data. States include joining the line, following the line, turning, and handling special track features like crossroads.
 
 ### Codebase Design
 
