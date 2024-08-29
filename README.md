@@ -2,7 +2,11 @@
 
 ## Overview
 
-This project is part of the EMATM0053 Robotic Systems coursework at the University of Bristol, focusing on the development and programming of a Pololu 3Pi+ mobile robot to autonomously follow a predetermined line path. The challenge requires the robot to navigate through corners, curves, and intersections, autonomously determining the most efficient path back to the starting point. The codebase leverages the robot's onboard sensors and motor controllers to execute complex maneuvers, ensuring robust performance across various segments of the track. Below is a breakdown of the core functionalities:
+This project is part of the EMATM0053 Robotic Systems coursework at the University of Bristol, focusing on the development and programming of a Pololu 3Pi+ mobile robot to autonomously follow a predetermined line path. The challenge requires the robot to navigate through corners, curves, and intersections, autonomously determining the most efficient path back to the starting point. The codebase leverages the robot's onboard sensors and motor controllers to execute complex maneuvers, ensuring robust performance across various segments of the track. 
+
+https://github.com/user-attachments/assets/c94fdcc3-b232-45a5-b280-1699de687c68
+
+Below is a breakdown of the core functionalities:
 
 ## Features
 
